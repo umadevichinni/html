@@ -8,4 +8,4 @@ num 4 = 8.5
 sum = num1 + num2 + num3 + num4
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, num3, num4, sum))
+print('The sum of {0} and {1} and {2} and {3} and {4} is {5}'.format(num1, num2, num3, num4, sum))
